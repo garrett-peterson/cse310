@@ -1,0 +1,12 @@
+Word: history
+Result: Won
+Guesses Remaining: 1
+--------------------
+Word: dragon
+Result: Won
+Guesses Remaining: 2
+--------------------
+Word: backpack
+Result: Lost
+Guesses Remaining: 0
+--------------------

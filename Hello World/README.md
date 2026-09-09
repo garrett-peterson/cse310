@@ -10,4 +10,4 @@ My purpose in creating it is to start with something small and build from there.
 
 I used Visual Studio Code to develop this program.
 
-For this simple "Hello World" program I used Pythong.
+For this simple "Hello World" program I used Python.

@@ -1,0 +1,8 @@
+Word: autumn
+Result: Lost
+Guesses Remaining: 0
+--------------------
+Word: window
+Result: Lost
+Guesses Remaining: 0
+--------------------
